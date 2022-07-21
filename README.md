@@ -1,4 +1,4 @@
-# 🌈 Welcome to the Vite + React + Tailwind CSS + RainbowKit Starter!
+# 🌈 Welcome to the Vite React Tailwind CSS RainbowKit `Crpyto Web 3.0` Site!
 
 ## To install dependencies
 
