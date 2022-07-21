@@ -7,9 +7,9 @@ function App() {
     <div className="bg-zinc-900 flex justify-center items-center h-screen text-white w-screen p-10">
       <div>
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl pb-10 font-bold text-center">
-          gm 🌈{" "}
+          SHJZ 🌈{" "}
           <a
-            href="https://rainbowkit.com"
+            href="/"
             className="underline hover:text-[#356DF3]"
           >
             RainbowKit
