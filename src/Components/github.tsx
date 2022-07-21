@@ -4,7 +4,7 @@ export default function Github() {
   return (
     <div className="flex justify-center">
       <a
-        href="https://github.com/jcstein/vite-tailwind-rainbowkit-starter/generate"
+        href="https://github.com/HamzaZaidiX/vite-tailwind-rainbowkit-crypto-site/generate"
         rel="noopener nofollow noreferrer"
         target="_blank"
       >
